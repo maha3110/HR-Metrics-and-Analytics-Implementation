@@ -1,0 +1,31 @@
+﻿employee_id;name;gender;diploma;birthdate;marital_status;children;rank; salary ;hired_date;resigned_date;title;city_id;department_id;vehicule_id
+1;Deana Byram;F;Engineering;10/05/1998;M;6;Senior; 6 120,00    ;10/11/2013;;Senior Cost Accountant;4;2;4
+2;Timothy Karolewski;F;PhD;15/02/1982;M;7;Senior; 5 906,00    ;15/08/2012;;Senior Developer;3;3;3
+3;Cordelia Rate;M;Bachelor;25/07/1970;D;6;Entry-level; 1 438,00    ;10/09/2016;;Marketing Assistant;2;5;2
+4;Levey Koschke;F;Bac;11/02/1986;M;8;Entry-level; 1 156,00    ;21/11/2013;05/09/2022;Database Administrator;1;1;
+5;Candida Stackbridge;F;PhD;03/11/1984;S;1;Mid-level; 4 635,00    ;27/02/2021;;Quality Engineer;4;4;1
+6;Sylvester Vasiliev;M;Engineering;15/11/1969;S;6;Mid-level; 5 299,00    ;08/05/2015;;Junior Developer;1;2;
+7;Constantine Moulsdall;F;PhD;21/08/1984;D;6;Intermediate; 3 402,00    ;21/05/2012;;Accounting Assistant;3;5;3
+8;Doll Strut;F;PhD;30/08/1972;D;8;Mid-level; 4 711,00    ;14/08/2019;16/08/2021;Quality Control Specialist;2;4;2
+9;Gavra Tessier;F;Bac;27/04/1989;S;1;Entry-level; 1 827,00    ;12/07/2019;;VP Quality Control;1;1;
+10;Walt Mattielli;F;Engineering;24/01/1964;S;2;Mid-level; 5 051,00    ;22/07/2021;;VP Marketing;2;3;
+11;Hazlett Etuck;F;Engineering;27/03/1966;M;7;Entry-level; 1 286,00    ;01/04/2017;;IT Engineer;3;4;3
+12;Jammal D'Onisi;F;PhD;13/11/1963;D;5;Intermediate; 2 773,00    ;05/09/2018;;Account Representative;4;5;4
+13;Ashley Crutchfield;F;Bac;19/12/1984;S;3;Intermediate; 2 222,00    ;16/06/2014;;IT Engineer;4;1;
+14;Danette Poetz;F;PhD;14/10/1966;D;0;Entry-level; 1 814,00    ;03/02/2012;;Computer Systems Analyst;2;2;
+15;Josselyn Shoutt;M;Masters;30/09/1973;M;1;Entry-level; 1 558,00    ;31/08/2010;;Recruiting Manager;1;3;1
+16;Tibold Brownsett;F;Bachelor;15/05/1983;S;3;Senior; 5 517,00    ;12/03/2019;;Senior Developer;3;1;1
+17;Valentine Behne;M;PhD;20/08/1988;D;0;Mid-level; 4 034,00    ;28/04/2015;31/08/2017;Accounting Analyst;1;4;
+18;Lanae Pentelo;F;Masters;23/03/1989;S;2;Senior; 6 529,00    ;09/09/2010;;CEO;4;5;5
+19;Hagan Daens;M;Masters;06/08/1976;M;3;Intermediate; 3 207,00    ;09/12/2015;29/12/2018;Test Engineer;3;2;
+20;Bab Moulder;F;Engineering;20/07/1974;M;7;Senior; 5 783,00    ;18/09/2012;21/04/2022;Secretary;2;3;
+21;Emmit Chalice;M;Engineering;25/01/1991;M;6;Senior; 6 121,00    ;31/12/2018;10/04/2020;Programmer Analyst;2;4;
+22;Emmey Beloe;F;Engineering;05/07/1999;M;10;Entry-level; 1 240,00    ;26/02/2011;;Quality Control;4;2;
+23;Tally Piddle;F;Bachelor;28/05/1963;D;8;Entry-level; 1 521,00    ;19/12/2013;;Computer Systems Analyst;3;3;3
+24;Ofilia Pavek;F;Masters;27/01/1981;M;10;Intermediate; 3 522,00    ;13/07/2019;;Programmer Analyst;1;5;
+25;Stevie Guerra;M;Bac;05/03/1962;S;10;Entry-level; 1 397,00    ;25/03/2019;;Marketing Assistant;4;1;1
+26;Gladys Miguel;M;Bac;21/10/1984;D;7;Intermediate; 3 451,00    ;04/05/2018;;Accounting Assistant;3;1;3
+27;Lizette Epine;F;Engineering;12/06/1972;M;10;Mid-level; 4 709,00    ;31/01/2011;;Quality Engineer;1;2;
+28;Linoel Simmans;F;Masters;15/06/1997;M;2;Entry-level; 1 100,00    ;24/10/2010;04/02/2017;Software Consultant;2;3;
+29;Wolf Attwill;M;PhD;23/09/1979;M;3;Mid-level; 5 002,00    ;11/05/2011;;Software Consultant;1;4;2
+30;Anette MacAskill;F;Engineering;04/07/1984;S;9;Intermediate; 2 752,00    ;20/01/2014;12/09/2016;Test Engineer ;3;5;
