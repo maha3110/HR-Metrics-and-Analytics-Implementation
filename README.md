@@ -1,6 +1,6 @@
 # HR Analytics and Reporting BI Project
 ## Overview
-Welcome to the HR Analytics and Reporting BI Project! This project is designed to provide HR professionals and management with powerful tools for analyzing HR data, generating reports, and gaining valuable insights into workforce management. The project integrates SQL Server Integration Services (SSIS) for data extraction and transformation, SQL Server Analysis Services (SSAS) for data warehousing and multidimensional modeling, SQL Server Reporting Services (SSRS) for report generation, and Power BI for interactive data visualization.
+This project is designed to provide HR professionals and management with powerful tools for analyzing HR data, generating reports, and gaining valuable insights into workforce management. The project integrates SQL Server Integration Services (SSIS) for data extraction and transformation, SQL Server Analysis Services (SSAS) for data warehousing and multidimensional modeling, and Power BI for interactive data visualization.
 
 ## Key Features
 **Data Extraction and Transformation (SSIS):** Utilize SSIS packages to extract HR data from various sources, transform it into a structured format, and load it into the data warehouse.
